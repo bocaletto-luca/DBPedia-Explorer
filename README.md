@@ -54,4 +54,4 @@ Contributions are always welcome! If you'd like to improve the project or add ne
 1. Fork the repository.
 2. Create a new branch for your feature or fix:
 
-#### Enjoy WEBAPP - Bt Bocaletto Luca
+#### Enjoy WEBAPP - By Bocaletto Luca
